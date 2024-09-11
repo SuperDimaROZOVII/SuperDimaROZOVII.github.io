@@ -1,2 +1,2 @@
-this is a repository
+this is a repository \n
 this is a readme file
